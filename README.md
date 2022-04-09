@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parvina-hash
 - 👀 I’m interested in IT subject.
-- 🌱 I’m currently learning about it.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about how to create learning-playing programme
+- 💞️ I’m looking to collaborate on playing to study and create own game to learn
 - 📫 How to reach me ...
 
 <!---
